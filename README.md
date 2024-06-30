@@ -1,8 +1,8 @@
-[!WARNING] Attention please I suspect that this code is used to extract blockchain and crypto developers wallet keys, please don't run it on your machines, be careful
+[!WARNING] Attention please! This code is used to extract blockchain and crypto developers wallet keys, please don't run it on your machines, be careful
 
 
 [!WARNING] From here is all part of the repo:
-# Decentralized Autonomous Organization (DAO) Dapp Platform
+## Decentralized Autonomous Organization (DAO) Dapp Platform
 
 **Found the security issue:**
 
